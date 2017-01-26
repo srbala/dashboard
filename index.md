@@ -1,10 +1,10 @@
 ---
 layout: front
-title: "Dave's Open Source Stuff"
+title: "Bala's Open Source Stuff"
 excerpt: "Experiments, tools and other projects"
 icon: experiment
 ---
 
 ## Experiments, tools and other projects
 
-I also [write articles](https://david.darn.es/) and [create websites](https://darn.es/).
+I also [write articles](https://srbala.github.io/blog/) and work on community projects.

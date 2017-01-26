@@ -14,7 +14,7 @@ gems:
 - jekyll-redirect-from
 - jemoji
 
-repository: "daviddarnes/daviddarnes.github.io"
+repository: "srbala/srbala.github.io"
 
 jekyll-mentions: https://twitter.com
 
@@ -23,17 +23,17 @@ sass:
   style: :compressed
   
 # Site info
-url: https://daviddarnes.github.io
-title: "Dave's Open Source Stuff"
-name: "David Darnes"
+url: https://srbala.github.io
+title: "Bala's Open Source Stuff"
+name: "Bala Raman"
 description: "Experiments, tools and other projects"
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=300"
 
 twitter:
-  username: daviddarnes
+  username: srbala
 
 author:
-  twitter: daviddarnes
+  twitter: srbala
   
 seo:
-  author: "David Darnes"
+  author: "Bala Raman"
