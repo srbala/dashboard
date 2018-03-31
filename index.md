@@ -1,7 +1,7 @@
 ---
 layout: front
-title: "Bala's Open Source Stuff"
-excerpt: "Experiments, tools and other projects"
+title: "Bala Raman's Open Source Participation"
+excerpt: "IT Enterprise Architect, Worked mostly on private and public sectors. Big believer in Open Source projects"
 icon: experiment
 ---
 
