@@ -7,4 +7,4 @@ icon: experiment
 
 ## Experiments, tools and other projects
 
-I also [write articles](https://srbala.github.io/blog/) and work on community projects.
+Programing short notes based on personal experience.
